@@ -1,9 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "users": [
+    {
+      "id": "1729844278148",
+      "name": "Ola",
+      "email": "viktorhugo.dev@gmail.com",
+      "password": "$2a$10$oglq2mQoRF13OYrJFTWnFu2kkJcOrqLozxDdxpCPg4sH47YPIRBz."
+    },
+    {
+      "id": "1729846965705",
+      "name": "wqeqwe",
+      "email": "joao.dev@gmail.com",
+      "password": "$2a$10$YcTAhPia/K6nn7/ySWzBqOerHZwQpMg0.D8Thbxr.BVIsmTR0nPK6"
+    },
+    {
+      "id": "1729881926411",
+      "name": "PEu",
+      "email": "joao2.dev@gmail.com",
+      "password": "$2a$10$nAI.vZa6FVdnS86hLH4ZU.Lyr3mKTOgomoKYHJbJxT/boD3birigW"
+    }
+  ]
 }
